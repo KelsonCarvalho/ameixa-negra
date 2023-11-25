@@ -13,11 +13,11 @@
   "categories": [
     "Themes"
   ],
-  "icon": "icon.png",
-  "homepage": "",
+  "icon": "ameixa-negra.png",
+  "homepage": "https://github.com/NoslekCode/ameixa-negra",
   "repository": {
   "type": "git",
-  "url": ""
+  "url": "https://github.com/NoslekCode/ameixa-negra.git"
 },
 "keywords": [
   "Ameixa",
