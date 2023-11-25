@@ -1,0 +1,39 @@
+{
+  "name": "ameixa-negra",
+  "displayName": "Ameixa Negra",
+  "description": "O tema \"Ameixa Negra\" para o Visual Studio Code oferece uma experiência de programação única, combinando sofisticação e praticidade. Inspirado na profundidade e riqueza da ameixa negra, esse tema mergulha os desenvolvedores em um ambiente de trabalho visualmente cativante.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "author": {
+    "name": "Kelson Carvalho",
+    "email": "fabriciosouuuza@gmail.com"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "homepage": "",
+  "repository": {
+  "type": "git",
+  "url": ""
+},
+"keywords": [
+  "Ameixa",
+  "negra",
+  "dark",
+  "theme",
+  "vscode"
+],
+"publisher": "kelsoncarvalho",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ameixa Negra",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ameixa Negra-color-theme.json"
+      }
+    ]
+  }
+}
